@@ -9,11 +9,11 @@ This project explores **pattern matching in a pharmaceutical supply chain** usin
 - [`start_pattern_matching.ipynb`](./start_pattern_matching.ipynb):  
   Jupyter Notebook with guided Cypher queries and explanations.
   🔍 Explore Key Questions: 
-	•	How does distributor demand flow back to raw material requirements?
-	•	Are there APIs that are used in multiple Drug Products and could create a supply bottleneck?
-	•	Are there APIs used in multiple Drug Products but supplied by only one supplier?
-	•	Which raw materials are used in many products but have limited suppliers?
-	•	What is the full supply chain path for a specific product SKU?
+    1. How does distributor demand flow back to raw material requirements?
+    2. Are there APIs that are used in multiple Drug Products and could create a supply bottleneck?
+    3. Are there APIs used in multiple Drug Products but supplied by only one supplier?
+    4. Which raw materials are used in many products but have limited suppliers?
+    5. What is the full supply chain path for a specific product SKU?
 
 
 - Sample data files and Cypher examples (see notebook for details).
