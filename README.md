@@ -1,4 +1,4 @@
-# 🧠 Neo4j Pattern Matching for Pharma Supply Chain
+# Neo4j Pattern Matching for Pharma Supply Chain
 
 This project explores **pattern matching in a pharmaceutical supply chain** using Neo4j. It includes real-world graph queries to identify bottlenecks, supply risks, product dependencies, and demand back-pressure — all modeled within a connected graph of suppliers, raw materials, APIs, products, equipment, and distributors.
 
